@@ -4,9 +4,9 @@
 
 Learn more about convolutions
 You’ve seen how to add a convolutional 2D layer to the top of your neural network in the previous video. If you want to
-see more detail on how they work, check out the playlist at https://bit.ly/2UGa7uH. But do take note that it is not
-required to complete this course.
+see more detail on how they work, check out the playlist at [Convolutional Neural Networks (Course 4 of the Deep Learning Specialization)](https://youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF). But do take note that it is not required to complete this course.
 
+Also [Machine Learning Specialization by Andrew Ng](https://youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)
 
 ## Convolutional Neural Networks
 
@@ -123,6 +123,7 @@ Total params: 55,098
 Trainable params: 55,098
 Non-trainable params: 0
 _________________________________________________________________
+
 
 MODEL TRAINING:
 Epoch 1/5
